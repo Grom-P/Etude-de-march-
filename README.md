@@ -1,18 +1,12 @@
 # Etude-de-marche Python 
+<img width="655" alt="16098_image2" src="https://github.com/Grom-P/Etude-de-march-/assets/117200565/1c88bbe3-1fbc-43eb-a8ec-041cbe824386">
 
 1. Effectuer un clustering simple
-
-Validé
-
-Commentaires :
-
 - Clustering avec K-means et Clustering hiérarchique CAH et comparaison des résultats !
 
  L’ACP : l’éboulis des valeurs propres ; le cercle des corrélations ;le nuage des individus.
 
 2. Explorer des données pour synthétiser des variables
-
-Commentaires :
 
 - Un dendrogramme avec la méthode CAH a été réalisé.
 

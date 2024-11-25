@@ -1,17 +1,23 @@
 # Etude-de-marche Python 
 <img width="655" alt="16098_image2" src="https://github.com/Grom-P/Etude-de-march-/assets/117200565/1c88bbe3-1fbc-43eb-a8ec-041cbe824386">
 
-1. Effectuer un clustering simple
-- Clustering avec K-means et Clustering hiérarchique CAH et comparaison des résultats !
+## Analyse et Clustering
 
- L’ACP : l’éboulis des valeurs propres ; le cercle des corrélations ;le nuage des individus.
+1. **Effectuer un clustering simple**  
+   - Méthodes utilisées :  
+     - **K-means**  
+     - **Clustering hiérarchique (CAH)**  
+   - Comparaison des résultats obtenus avec les deux méthodes.  
+   - **ACP** (Analyse en Composantes Principales) :  
+     - Éboulis des valeurs propres.  
+     - Cercle des corrélations.  
+     - Nuage des individus.
 
-2. Explorer des données pour synthétiser des variables
-
-- Un dendrogramme avec la méthode CAH a été réalisé.
-
-- La méthode de clustering k-means a été utilisée.
-
--  Le nombre de classes choisi pour le clustering est justifié par l’étudiant (Elbow / DB / Silhouettes..)
-
--  Les différents groupes ont été caractérisés à l’aide des centroïdes / Bar plots  / radar charts.
+2. **Explorer des données pour synthétiser des variables**  
+   - Réalisation d’un dendrogramme avec la méthode **CAH**.  
+   - Utilisation de la méthode de clustering **K-means**.  
+   - Justification du nombre de classes pour le clustering :  
+     - Méthodes utilisées : **Elbow**, **Indice de Davies-Bouldin (DB)**, **Coefficient de Silhouette**.  
+   - Caractérisation des différents groupes :  
+     - À l’aide des centroïdes.  
+     - Visualisations : **Bar plots** et **Radar charts**.
